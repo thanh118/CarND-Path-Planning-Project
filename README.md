@@ -93,6 +93,9 @@ A really helpful resource for doing this project and creating smooth trajectorie
     ```
 
 ## Description
+
+---
+
 The code consist of three parts:
 
 ### Prediction:
