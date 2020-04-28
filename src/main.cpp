@@ -402,7 +402,7 @@ int main() {
           double x_add_on = 0;
 
           // Fill up the rest of the path planner after filling it with previous points
-          // Always 50 points will be output
+          // Always 50 points will be output.
           for (int i=0; i <= 50-previous_path_x.size(); i++) {
 
               if ( ref_vel > MAX_VEL ) {
